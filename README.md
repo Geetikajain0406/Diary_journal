@@ -1,0 +1,2 @@
+# Diary_journal
+Python
